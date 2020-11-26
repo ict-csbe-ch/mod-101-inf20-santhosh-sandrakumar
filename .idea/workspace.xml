@@ -32,11 +32,44 @@
       <updated>1606395923181</updated>
       <workItem from="1606395928367" duration="87000" />
       <workItem from="1606396338510" duration="38000" />
-      <workItem from="1606396458600" duration="1099000" />
+      <workItem from="1606396458600" duration="2541000" />
     </task>
+    <task id="LOCAL-00001" summary="project setup">
+      <created>1606399491027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606399491027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="project setup" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1606399496832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606399496832" />
+    <state x="761" y="445" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606399375828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="445" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606399375828" />
   </component>
 </project>
