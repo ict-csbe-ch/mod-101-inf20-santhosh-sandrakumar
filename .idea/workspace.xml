@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dfb5191-2821-4291-9734-61c40952ff8a" name="Default Changelist" comment="" />
+    <list default="true" id="8dfb5191-2821-4291-9734-61c40952ff8a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,6 +46,7 @@
       <workItem from="1606395928367" duration="87000" />
       <workItem from="1606396338510" duration="38000" />
       <workItem from="1606396458600" duration="2541000" />
+      <workItem from="1606487472085" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="project setup">
       <created>1606399491027</created>
@@ -57,12 +71,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup" />
     <option name="LAST_COMMIT_MESSAGE" value="project setup" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="761" y="0" key="#HTML" timestamp="1606487609516">
+      <screen x="0" y="0" width="1920" height="944" />
+    </state>
+    <state x="761" y="0" key="#HTML/0.0.1920.944@0.0.1920.944" timestamp="1606487609516" />
+    <state x="414" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606487588156">
+      <screen x="0" y="0" width="1920" height="944" />
+    </state>
+    <state x="414" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.944@0.0.1920.944" timestamp="1606487588156" />
     <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1606399496832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
