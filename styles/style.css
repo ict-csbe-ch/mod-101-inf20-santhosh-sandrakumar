@@ -183,3 +183,7 @@ body {
     float:left;
     color: white;
 }
+
+.form-control{
+    max-width: 300px;
+}
